@@ -6,7 +6,7 @@ Program do zarządzania danymi z excela. W obecnej wersji V1 zawarte są funkcje
 2) getExcelWorksheetColumnNames - pobieranie nazw kolumn z danego arkusza excel
 3) getExcelWorksheetData - pobieranie danych z arkusza
 
-Aby uruchomić program, należy wywołać go z wiersza poleneć (CMD) wraz z odpowiednimi parametrami.
+Aby uruchomić program, należy wywołać go z wiersza poleceń (CMD) wraz z odpowiednimi parametrami.
 
 1) Ścieżka pliku
 2) Nazwa arkusza
